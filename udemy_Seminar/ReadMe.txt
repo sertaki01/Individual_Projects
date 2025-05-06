@@ -1,0 +1,1 @@
+The above code was written during the "One Week Python" seminar by Colt Steele and aimed to strengthen my knowledge of the Python programming language.
