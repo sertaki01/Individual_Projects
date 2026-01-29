@@ -1,0 +1,4 @@
+# Heart Disease Prediction
+
+This project performs exploratory data analysis and predictive modeling on a heart disease dataset.  
+Data preprocessing, visualization, outlier detection, and feature scaling are combined with a Gradient Boosting Classifier, using validation-based hyperparameter tuning and repeated data splits to ensure reliable performance evaluation.
